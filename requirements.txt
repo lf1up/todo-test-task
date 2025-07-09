@@ -1,2 +1,0 @@
-djangorestframework==3.16.0
-black==25.1.0
